@@ -36,11 +36,11 @@
         <div  class="col-md-3" style="background-color:black">
         <br><br>
         <ul class="list-group font-weight-bold text-center" >
-            <li class="list-group-item p-3 mb-2 bg-info text-white" aria-current="true">0</li>
-            <li class="list-group-item p-3 mb-2 bg-info text-white">1</li>
-            <li class="list-group-item p-3 mb-2 bg-info text-white">2</li>
-            <li class="list-group-item p-3 mb-2 bg-info text-white">3</li>
-            <li class="list-group-item p-3 mb-2 bg-info text-white">4</li>
+            <li class="list-group-item p-3 mb-2 bg-info text-white" aria-current="true">JUEGOS</li>
+            <li class="list-group-item p-3 mb-2 bg-info text-white">ADIVINA LA CONSTELACIONES</li>
+            <li class="list-group-item p-3 mb-2 bg-info text-white">NOMBRA LOS PLANETAS</li>
+            <li class="list-group-item p-3 mb-2 bg-info text-white">TELESCOPIO</li>
+          
         <br><br>
         </ul>
     </div>
